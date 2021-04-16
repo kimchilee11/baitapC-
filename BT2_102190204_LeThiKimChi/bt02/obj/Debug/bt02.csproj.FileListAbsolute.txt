@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\bt02\bt02\obj\Debug\bt02.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\bt02\bt02\obj\Debug\bt02.Form2.resources
+C:\Users\ADMIN\source\repos\bt02\bt02\obj\Debug\bt02.Form1.resources
+C:\Users\ADMIN\source\repos\bt02\bt02\obj\Debug\bt02.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\bt02\bt02\obj\Debug\bt02.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\bt02\bt02\obj\Debug\bt02.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\bt02\bt02\bin\Debug\bt02.exe.config
+C:\Users\ADMIN\source\repos\bt02\bt02\bin\Debug\bt02.exe
+C:\Users\ADMIN\source\repos\bt02\bt02\bin\Debug\bt02.pdb
+C:\Users\ADMIN\source\repos\bt02\bt02\obj\Debug\bt02.exe
+C:\Users\ADMIN\source\repos\bt02\bt02\obj\Debug\bt02.pdb
